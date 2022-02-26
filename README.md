@@ -4,6 +4,7 @@ Data Science portfolio
 # [Project 1: Live Cryptocurrency Webscraper](https://github.com/OscarChandraQUT/finAppOscar.git)
 * Scrapes the website to retrieve relevant information
 * Exports retrieved information into a csv file
+* ![](https://github.com/OscarChandraQUT/Oscar_Portfolio/blob/main/images/plotting.jpg)
 
 # [Project 2: Data Science Tokyo Olympics Analysis](https://github.com/OscarChandraQUT/tokyo_olympics_ds.git)
 * Used Pandas to conver excel files to .csv
