@@ -9,6 +9,7 @@ Data Science portfolio
 * ![](https://github.com/OscarChandraQUT/Oscar_Portfolio/blob/main/images/plotting.jpg)
 
 # [Project 2: Data Science Tokyo Olympics Analysis](https://colab.research.google.com/drive/1SxmY-I45VzY0kZWv-Upixy48kSdeEdBf?usp=sharing)
+* This project uses a data set from Kaggle
 * Used Pandas to conver excel files to .csv
 * Used Plotly to display medal distributions for each country
 * Used PySpark to execute different queries witht the dataframe using SQL
