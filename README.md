@@ -14,4 +14,5 @@ Data Science portfolio
 * Used PySpark to execute different queries witht the dataframe using SQL
 * Used Plotly to display pie graphs of distribution of gender in each game category
 * Used Plotly to display distribution of athletes from a country in each game category
-
+![](https://github.com/OscarChandraQUT/Oscar_Portfolio/blob/main/images/medals.jpg)
+![](https://github.com/OscarChandraQUT/Oscar_Portfolio/blob/main/images/pie.jpg)
